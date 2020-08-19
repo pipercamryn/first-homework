@@ -1,0 +1,57 @@
+.sm-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: Lime;
+}
+.sm-box {
+  width: 80px;
+  height: 80px;
+  margin: 55px;
+  top: 0px;
+  top: 0px;
+}
+
+.sm-box--circle{
+  border-radius: 50px;
+}
+
+.sm-row1{
+  width: 92%;
+  position: relative;
+  overflow: hidden;
+  background-color: Coral;
+  margin: 50px;
+}
+
+.sm-row2{
+  width: 92%;
+  position: relative;
+  overflow: hidden;
+  background-color: MediumSlateBlue;
+  margin: 50px;
+}
+
+.sm-row3{
+  width: 92%;
+  position: relative;
+  overflow: hidden;
+  background-color: Coral;
+  margin: 50px;
+}
+
+.sm-box--pink{
+  background-color: MediumSlateBlue;
+}
+
+.sm-box--orange{
+  background-color: hotpink;
+}
+
+.sm-box--left{
+  float: left;
+}
+
+.sm-box--right{
+  float: right;
+}
